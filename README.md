@@ -3,7 +3,7 @@
 > **Project URL:** https://roadmap.sh/projects/data-visualization-tutorial
 
 ## 📌 Project Overview
-Project ini membandingkan teknik visualisasi data menggunakan **Matplotlib** dan **Seaborn** pada dataset `tips` dari Seaborn.
+Project ini membandingkan teknik visualisasi data menggunakan **Matplotlib** dan **Seaborn** pada dataset `tips` bawaan Seaborn.
 
 ## 📊 Visualisasi yang Dibuat
 1. **Histogram**: Distribusi total tagihan (*total bill*).
