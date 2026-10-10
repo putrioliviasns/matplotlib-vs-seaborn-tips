@@ -1,7 +1,5 @@
 # Comparing Matplotlib and Seaborn with Tips Dataset
 
-> **Project URL:** https://roadmap.sh/projects/data-visualization-tutorial
-
 ## 📌 Project Overview
 Project ini membandingkan teknik visualisasi data menggunakan **Matplotlib** dan **Seaborn** pada dataset `tips` bawaan Seaborn.
 
